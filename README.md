@@ -1,6 +1,5 @@
-- 👋 Hi, Je suis @Imanezory
-- Une élève au Brevet de technicien supérireur ,filière multimédia conception web
-- Dans mon profil vous trouverez des projets par (Html,Css,JavaScript...)
-- Mon Blog https://infiniy2004.blogspot.com/
-
+👋 Bonjour, je suis @Imanezory
+🎓 Étudiante en ingénierie logicielle
+💻 Projets réalisés avec : HTML, CSS, JavaScript, PHP
+✨ Découvrez mon blog : infiniy2004.blogspot.com
 
